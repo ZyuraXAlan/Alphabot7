@@ -42,7 +42,7 @@ Ikutin perintah di bawah ini ya🛐!
 
 [`klik`](https://replit.com)
 
-[`klik`](htttps://heroku.com)
+[`klik`](https://heroku.com)
 
 
 ## `ADD BUILDPACK`
