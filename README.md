@@ -40,7 +40,8 @@ Ikutin perintah di bawah ini ya🛐!
 ## `ON 24JAM?`
 ```Tapi harus login dulu
 ```
-
+[`klik`](https://replit.com)
+[`klik`](htttps://id.heroku.com/login)
 ## `ADD BUILDPACK`
 
 ```
