@@ -37,7 +37,9 @@ Ikutin perintah di bawah ini ya🛐!
 > bash install.sh
 > npm start / node Fxc7.js
 ```
-
+## `ON 24JAM?`
+```Tapi harus login dulu
+```
 
 ## `ADD BUILDPACK`
 
