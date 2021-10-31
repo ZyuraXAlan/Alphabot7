@@ -53,5 +53,5 @@ Off in web nya
 
 ## ```COFFEE```
 
-- [`SAWERIA`](https://saweria.co/zeeoneofc)
+-
 
