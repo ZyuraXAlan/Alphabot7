@@ -22,7 +22,7 @@
 
 ## `CHANGE SESSION`
 
-[`Click Here`](https://github.com/zeeoneofc/Alphabot7/blob/master/session.json#L1)
+[`Click Here`](https://github.com/naufal132/Alphabot7/edit/master/session.json#L1)
 
 ## `SETTING`
 
@@ -51,7 +51,7 @@ Off in web nya
 </p>
 
 
-## ```COFFEE```
+## ```wa kami```
 
--
-
+- ['No bot'](wa.me/13193433799
+- ['No owner Naufal'](wa.me/6282266467066)
