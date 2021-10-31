@@ -53,5 +53,5 @@ Off in web nya
 
 ## ```wa kami```
 
-- ['No bot'](wa.me/13193433799
-- ['No owner Naufal'](wa.me/6282266467066)
+- [`No bot`](wa.me/13193433799)
+- [`No owner Naufal`](wa.me/6282266467066)
