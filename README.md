@@ -14,6 +14,31 @@
 
 -------
 
+## Tools
+
+```bash
+> Termux
+> WhatsApp
+> 2 HandPhone
+```
+
+## Install
+Ikutin perintah di bawah ini ya🛐!
+
+```bash
+> termux-setup-storage
+(after that tap on permission)
+> pkg update -y
+> pkg upgrade -y
+> pkg install python -y
+> pkg install git -y
+> git clone https://github.com/naufal132/Alphabot7
+> cd Alphabot7
+> bash install.sh
+> npm start / node Fxc7.js
+```
+
+
 ## `ADD BUILDPACK`
 
 ```
