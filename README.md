@@ -41,7 +41,7 @@ Ikutin perintah di bawah ini ya🛐!
 `Tapi harus login dulu`
 
 [`klik`](https://replit.com)
-[`klik`](htttps://id.heroku.com/login)
+[`klik`](htttps://id.heroku.com)
 
 
 ## `ADD BUILDPACK`
