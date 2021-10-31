@@ -55,3 +55,27 @@ Off in web nya
 
 - [`No bot`](wa.me/13193433799)
 - [`No owner Naufal`](wa.me/6282266467066)
+
+## Tools
+
+```bash
+> Termux
+> WhatsApp
+> 2 HandPhone
+```
+
+## Install
+Follow The Steps Below!
+
+```bash
+> termux-setup-storage
+(after that tap on permission)
+> pkg update -y
+> pkg upgrade -y
+> pkg install python -y
+> pkg install git -y
+> git clone https://github.com/Fxc7/termux-bot-wa
+> cd termux-bot-wa
+> bash install.sh
+> npm start / node Fxc7.js
+```
