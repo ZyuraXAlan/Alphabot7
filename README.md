@@ -38,11 +38,11 @@ Ikutin perintah di bawah ini ya🛐!
 > npm start / node Fxc7.js
 ```
 ## `ON 24JAM?`
-```Tapi harus login dulu
+`Tapi harus login dulu`
+
 [`klik`](https://replit.com)
 [`klik`](htttps://id.heroku.com/login)
 
-```
 
 ## `ADD BUILDPACK`
 
