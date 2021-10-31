@@ -26,9 +26,9 @@
 
 ## `SETTING`
 
-- Owner number [Here](https://github.com/zeeoneofc/Alphabot7/blob/master/settings.json#L4)
-- Owner name [Here](https://github.com/zeeoneofc/Alphabot7/blob/master/settings.json#L13)
-- Botname [Here](https://github.com/zeeoneofc/Alphabot7/blob/master/settings.json#L14)
+- Owner number [Here](https://github.com/naufal132/Alphabot7/edit/master/settings.json#L4)
+- Owner name [Here](https://github.com/naufal132/Alphabot7/edit/master/settings.json#L13)
+- Botname [Here](https://github.com/naufal132/Alphabot7/edit/master/settings.json#L14)
 
 ## `CHANGE DYNO`
 
