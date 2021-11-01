@@ -78,7 +78,8 @@ Ikutin perintah di bawah ini ya🛐!
 <p align="center">
   <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://a.top4top.io/p_2081imvxm1.jpg" />
 </p>
-## `Naufal tutor`
+## `Jasa Logo`
+
 [`click`](https://youtube.com/channel/UC1fmmnFo25NO3jzlca-A-jQ)
 ----------
 
