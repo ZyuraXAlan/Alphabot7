@@ -79,6 +79,13 @@ Ikutin perintah di bawah ini ya🛐!
   <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://a.top4top.io/p_2081imvxm1.jpg" />
 </p>
 
+<p align="center">
+  <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://b.top4top.io/s_21315ayx81.jpg" />
+</p>
+
+<p align="center">
+  <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://a.top4top.io/s_2131888pb0.jpg" />
+</p>
 
 ## ```wa kami```
 
