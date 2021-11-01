@@ -62,12 +62,11 @@ Ikutin perintah di bawah ini ya🛐!
 
 ## `CHANGE DYNO`
 
-Off in web nya
-
+Jasa Logo
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://c.top4top.io/s_2131e2mop0.jpg" />
+  <a href="https://wa.me/13193433799"><img src="https://c.top4top.io/s_2131e2mop0.jpg" />
 </p>
 
 ## ```HOW TO DEPLOY```
