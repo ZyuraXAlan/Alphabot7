@@ -60,9 +60,9 @@ Ikutin perintah di bawah ini ya🛐!
 - Owner name [Here](https://github.com/naufal132/Alphabot7/edit/master/settings.json#L13)
 - Botname [Here](https://github.com/naufal132/Alphabot7/edit/master/settings.json#L14)
 
-## `CHANGE DYNO`
+## `Jasa Logo`
 
-Jasa Logo
+[`click`](https://6285157160906)
 ----------
 
 <p align="center">
