@@ -85,3 +85,8 @@ Off in web nya
 
 - [`No bot`](wa.me/13193433799)
 - [`No owner Naufal`](wa.me/6282266467066)
+
+
+## ```GC BOT```
+- [`GC botnaufal×atakbot`](bit.ly/naufal×ridho)
+- [`GC HENGCKER WIBU Tyz`](bit.ly/WibuTyz)
