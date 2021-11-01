@@ -78,12 +78,14 @@ Ikutin perintah di bawah ini ya🛐!
 <p align="center">
   <a href="https://youtu.be/_CP2_1Yqauo"><img src="https://a.top4top.io/p_2081imvxm1.jpg" />
 </p>
-----------
 ## `Naufal tutor`
 [`click`](https://youtube.com/channel/UC1fmmnFo25NO3jzlca-A-jQ)
+----------
+
 <p align="center">
   <a href="https://youtube.com/channel/UC1fmmnFo25NO3jzlca-A-jQ"><img src="https://b.top4top.io/s_21315ayx81.jpg" />
 </p>
+ 
 ----------
 ## `AtakBotz`
 [`Click`](https://youtube.com/channel/UCT76Agxm4N_MbefBoywjDRA)
